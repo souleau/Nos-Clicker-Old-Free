@@ -1,0 +1,45 @@
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Anydesk.exe.config
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Anydesk.exe
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Anydesk.pdb
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.AssemblyReference.cache
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.Properties.Resources.resources
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.GenerateResource.cache
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.CoreCompileInputs.cache
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.exe
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.pdb
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.exe.licenses
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.CopyComplete
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\DiscordMessenger.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Newtonsoft.Json.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Siticone.Desktop.UI.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Newtonsoft.Json.xml
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.BLogin.resources
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.BRegister.resources
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\obj\Debug\Anydesk.BMain.resources
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Guna.UI2.dll
+H:\VS CODE\Anydesk clicker\Anydesk\Anydesk\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\bin\Debug\Anydesk.exe.config
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\bin\Debug\Anydesk.exe
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\bin\Debug\Anydesk.pdb
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\bin\Debug\DiscordMessenger.dll
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.AssemblyReference.cache
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.BLogin.resources
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.BMain.resources
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.BRegister.resources
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.Properties.Resources.resources
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.GenerateResource.cache
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.exe.licenses
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.CoreCompileInputs.cache
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.csproj.Up2Date
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.exe
+C:\Users\lain\Documents\GitHub\nos-clicker-v.05\Anydesk\Anydesk\obj\Debug\Anydesk.pdb

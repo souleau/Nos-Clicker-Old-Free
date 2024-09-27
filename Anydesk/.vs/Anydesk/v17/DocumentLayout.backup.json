@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|c:\\users\\lain\\documents\\github\\nos-clicker-v.05\\anydesk\\anydesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\anydesk\\bmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\bmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\anydesk\\bregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\bregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\anydesk\\blogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\blogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|c:\\users\\lain\\documents\\github\\nos-clicker-v.05\\anydesk\\anydesk\\bregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\bregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\anydesk\\blogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\blogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\anydesk\\bmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\bmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\anydesk\\bmain.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\bmain.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Anydesk||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\anydesk\\configs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA3E598-71F5-4490-985B-DA2099172F83}|Anydesk\\Anydesk.csproj|solutionrelative:anydesk\\configs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\Program.cs",
+              "RelativeDocumentMoniker": "Anydesk\\Program.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\Program.cs",
+              "RelativeToolTip": "Anydesk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:42:11.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BMain.resx",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BMain.resx",
+              "RelativeDocumentMoniker": "Anydesk\\BMain.resx",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BMain.resx",
+              "RelativeToolTip": "Anydesk\\BMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-27T21:41:43.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Anydesk",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\Anydesk.csproj",
+              "RelativeDocumentMoniker": "Anydesk\\Anydesk.csproj",
+              "ToolTip": "H:\\VS CODE\\Anydesk clicker\\Anydesk\\Anydesk\\Anydesk.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-15T19:38:01.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BMain.cs",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BMain.cs",
+              "RelativeDocumentMoniker": "Anydesk\\BMain.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BMain.cs",
+              "RelativeToolTip": "Anydesk\\BMain.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:41:43.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BMain.cs",
+              "RelativeDocumentMoniker": "Anydesk\\BMain.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BMain.cs [Design]",
+              "RelativeToolTip": "Anydesk\\BMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:41:43.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configs.cs",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\Configs.cs",
+              "RelativeDocumentMoniker": "Anydesk\\Configs.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\Configs.cs",
+              "RelativeToolTip": "Anydesk\\Configs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:41:43.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BRegister.cs",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BRegister.cs",
+              "RelativeDocumentMoniker": "Anydesk\\BRegister.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BRegister.cs",
+              "RelativeToolTip": "Anydesk\\BRegister.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:41:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BRegister.cs",
+              "RelativeDocumentMoniker": "Anydesk\\BRegister.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BRegister.cs [Design]",
+              "RelativeToolTip": "Anydesk\\BRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:41:44.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLogin.cs",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BLogin.cs",
+              "RelativeDocumentMoniker": "Anydesk\\BLogin.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BLogin.cs",
+              "RelativeToolTip": "Anydesk\\BLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:41:44.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BLogin.cs",
+              "RelativeDocumentMoniker": "Anydesk\\BLogin.cs",
+              "ToolTip": "C:\\Users\\lain\\Documents\\GitHub\\nos-clicker-v.05\\Anydesk\\Anydesk\\BLogin.cs [Design]",
+              "RelativeToolTip": "Anydesk\\BLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:41:44.027Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
